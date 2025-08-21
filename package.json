@@ -1,0 +1,39 @@
+{
+  "name": "react-practice-lect",
+  "version": "1.0.0",
+  "description": "sehar react learning",
+  "keywords": [
+    "sehar",
+    "react",
+    "learning"
+  ],
+  "homepage": "https://github.com/seharbano/React-Learning#readme",
+  "bugs": {
+    "url": "https://github.com/seharbano/React-Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seharbano/React-Learning.git"
+  },
+  "license": "ISC",
+  "author": "sehar malik",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.15.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 10 version"
+  ]
+}
